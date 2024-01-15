@@ -1,4 +1,4 @@
-# <img src="images/SkyEyeGPT.png" height="40"> SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
+# <img src="images/SkyEyeGPT.png" height="60"> SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
 
 ##### Author: Yang Zhan, Zhitong Xiong, Yuan Yuan
 This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model"**. [paper]
