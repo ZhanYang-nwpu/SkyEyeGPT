@@ -8,7 +8,7 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 
 
 ## 📢 Latest Updates
-- **Jan-17-2024**: paper is released. 🔥🔥
+- **Jan-18-2024**: paper is released. 🔥🔥
 - 📦 Chatbot, codebase, datasets, and models coming soon! 🚀
 ---
 
