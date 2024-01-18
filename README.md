@@ -6,6 +6,7 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 **School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University**
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
+You can focus on remote sensing multimodal large language model (Vision-Language) [here](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)
 
 ## 📢 Latest Updates
 - **Jan-18-2024**: paper is released. 🔥🔥
