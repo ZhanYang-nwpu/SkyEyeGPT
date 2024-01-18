@@ -15,3 +15,12 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 
 
 
+
+
+## 🙏 Acknowledgement
+Our code is based on [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), [shikra](https://github.com/shikras/shikra), and [MiniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4). We sincerely appreciate their contributions and authors for releasing source codes. I would like to thank Xiong zhitong and Yuan yuan for helping the manuscript. I also thank the School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University for supporting this work.
+
+
+
+## 🤖 Contact
+If you have any questions about this project, please feel free to contact zhanyangnwpu@gmail.com.
