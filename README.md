@@ -16,6 +16,14 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 
 
 
+## <img src="images/SkyEyeGPT.png" height="60"> SkyEyeGPT: Architecture
+
+<div align="center">
+  <img src="images/model.png"/>
+</div>
+
+
+
 
 
 ## 📜 Citation
