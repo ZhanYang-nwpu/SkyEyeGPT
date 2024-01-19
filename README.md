@@ -48,7 +48,9 @@ The download link of unified remote sensing vision-language instruction dataset 
 </div>
 
 ### 2. Some testing samples of captioning, grounding, and VQA
-
+<div align="center">
+  <img src="images/some_sample.png"/>
+</div>
 
 ## 👁️ Qualitative results
 ### 1. 
