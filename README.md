@@ -56,7 +56,7 @@ The download link of unified remote sensing vision-language instruction dataset 
 
 ## 📦 Performance
 <div align="center">
-  <img src="images/performance.png"/ height="400">
+  <img src="images/performanc.png"/ height="400">
 </div>
 
   
