@@ -37,7 +37,7 @@ The download link of unified remote sensing vision-language instruction dataset 
 
 
 <div align="center">
-  <img src="images/dataset.png"/ height="450">
+  <img src="images/dataset.png"/ height="400">
 </div>
 
 
