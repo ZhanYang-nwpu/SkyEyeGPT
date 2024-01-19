@@ -7,9 +7,9 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
 ### You can focus on remote sensing multimodal large language model (Vision-Language) [here](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)
-This is an ongoing project. We will be working on improving it.
 
 ## 📢 Latest Updates
+This is an ongoing project. We will be working on improving it.
 - 📦 Chatbot, codebase, datasets, and models coming soon! 🚀
 - **Jan-18-2024**: paper is released. 🔥🔥
 - **Jan-17-2024**: A curated list about [remote sensing multimodal large language model (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created. 🔥🔥
