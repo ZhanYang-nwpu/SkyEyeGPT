@@ -15,6 +15,8 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 
 
 ## 💬 SkyEyeGPT: Remote Sensing Multi-modal Chatbot
+The online demo will be released.
+
 
 <div align="center">
   <img src="images/chatbot.png"/>
