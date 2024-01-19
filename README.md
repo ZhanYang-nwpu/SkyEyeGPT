@@ -37,7 +37,7 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
       title={SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model}, 
       author={Yang Zhan and Zhitong Xiong and Yuan Yuan},
       year={2024},
-      eprint={*****},
+      eprint={arXiv:2401.09712},
       archivePrefix={arXiv}
 }
 ```
