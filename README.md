@@ -24,7 +24,7 @@ The online demo will be released.
 
 
 ## <img src="images/SkyEyeGPT.png" height="30"> SkyEyeGPT: Architecture
-The model and chekpoint is coming soon! 🚀
+The model and checkpoint are coming soon! 🚀
 
 
 <div align="center">
