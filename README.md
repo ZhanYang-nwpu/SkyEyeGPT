@@ -1,9 +1,21 @@
-# <img src="images/SkyEyeGPT.png" height="60"> SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
+# SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
 
-##### Author: Yang Zhan, Zhitong Xiong, Yuan Yuan
+<br>
+<p align="center">
+    <img src="images/SkyEyeGPT.png" width="250"/>
+<p>
+<br>
+
+
+
+<div align="center">
+<strong>Author: Yang Zhan, Zhitong Xiong, Yuan Yuan</strong>
+  
+<strong>School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University</strong>
+</div>
+
 This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model"**. [paper](https://arxiv.org/abs/2401.09712)
 
-**School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University**
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
 ### You can focus on remote sensing multimodal large language model (Vision-Language) [here](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)
