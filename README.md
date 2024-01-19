@@ -28,6 +28,8 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 </div>
 
 ## 🌋 SkyEye-968k: Unified RS Vision-Language Instruction
+The download link of unified remote sensing vision-language instruction dataset is coming soon! 🚀
+
 
 <div align="center">
   <img src="images/dataset.png"/ height="450">
