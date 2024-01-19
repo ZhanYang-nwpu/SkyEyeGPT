@@ -108,7 +108,7 @@ The download link of unified remote sensing vision-language instruction dataset 
 
 ### 3. Remote Sensing Visual Grounding
 <div align="center">
-  <img src="images/T_RSVG.png"/>
+  <img src="images/T_RSVG.png"/ height="250">
 </div>
 
 ### 4. Remote Sensing Visual Question Answering
@@ -116,7 +116,7 @@ The download link of unified remote sensing vision-language instruction dataset 
   <img src="images/T_RSVQA1.png"/>
 </div>
 <div align="center">
-  <img src="images/T_RSVQA2.png"/>
+  <img src="images/T_RSVQA2.png"/ height="250">
 </div>
 
 
