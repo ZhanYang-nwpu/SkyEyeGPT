@@ -43,7 +43,9 @@ The download link of unified remote sensing vision-language instruction dataset 
 ## 👁️ Visualization
 
 ### 1. Detailed description
-
+<div align="center">
+  <img src="images/detailed_descr.png"/>
+</div>
 
 ### 2. Some testing samples of captioning, grounding, and VQA
 
