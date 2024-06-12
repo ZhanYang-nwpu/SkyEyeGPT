@@ -23,6 +23,7 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 ## 📢 Latest Updates
 This is an ongoing project. We will be working on improving it.
 - 📦 Chatbot, codebase, datasets, and models coming soon! 🚀
+- **Jun-12-2024**: RS instruction dataset SkyEye-968k is released. 🔥🔥
 - **Jan-18-2024**: paper is released. 🔥🔥
 - **Jan-17-2024**: A curated list about [remote sensing multimodal large language model (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created. 🔥🔥
 ---
@@ -46,8 +47,9 @@ The model and checkpoint are coming soon! 🚀
 </div>
 
 ## 🌋 SkyEye-968k: Unified RS Vision-Language Instruction
-The download link of unified remote sensing vision-language instruction dataset is coming soon! 🚀
+The download link of the unified remote sensing vision-language instruction dataset is here! 🚀
 
+Download link: https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k
 
 <div align="center">
   <img src="images/dataset.png"/ height="400">
