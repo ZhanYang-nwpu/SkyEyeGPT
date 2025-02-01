@@ -16,7 +16,7 @@
 
 This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model"**. [[paper](https://arxiv.org/abs/2401.09712)] [[SkyEye-968k](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)]
 
-### Accepted by ISPRS Journal of Photogrammetry and Remote Sensing
+### 🎉 Accepted by ISPRS Journal of Photogrammetry and Remote Sensing 🎉
 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
