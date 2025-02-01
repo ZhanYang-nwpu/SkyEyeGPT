@@ -146,12 +146,11 @@ Download link: https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k
 
 ## 📜 Citation
 ```bibtex
-@misc{zhan2024skyeyegpt,
+@ARTICLE{zhan2025skyeyegpt,
       title={SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model}, 
       author={Yang Zhan and Zhitong Xiong and Yuan Yuan},
-      year={2024},
-      eprint={arXiv:2401.09712},
-      archivePrefix={arXiv}
+      year={2025},
+      journal={ISPRS Journal of Photogrammetry and Remote Sensing}
 }
 ```
 
