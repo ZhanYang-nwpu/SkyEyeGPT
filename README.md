@@ -152,7 +152,9 @@ Download link: https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k
       title={SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model}, 
       author={Yang Zhan and Zhitong Xiong and Yuan Yuan},
       year={2025},
-      journal={ISPRS Journal of Photogrammetry and Remote Sensing}
+      journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+      volume = {221},
+      pages = {64-77}
 }
 ```
 
