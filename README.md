@@ -14,7 +14,7 @@
 <strong>School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University</strong>
 </div>
 
-This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model"**. [[paper](https://arxiv.org/abs/2401.09712)] [[SkyEye-968k](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)]
+This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model"**. [[paper](https://doi.org/10.1016/j.isprsjprs.2025.01.020)] [[SkyEye-968k](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)]
 
 ### 🎉 Accepted by ISPRS Journal of Photogrammetry and Remote Sensing 🎉
 
