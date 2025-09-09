@@ -25,7 +25,7 @@ This is the official repository for paper **"SkyEyeGPT: Unifying Remote Sensing 
 ## 📢 Latest Updates
 This is an ongoing project. We will be working on improving it.
 - 📦 Chatbot, codebase, and model inference tutorial coming soon! 🚀
-- **May-13-2025**: SkyEyeGPT model checkpoint is released. [[huggingface](https://huggingface.co/ZhanYang-nwpu/SkyEyeGPT)] 🔥🔥
+- **May-13-2025**: SkyEyeGPT model checkpoint is released. [[huggingface](https://huggingface.co/ZhanYang-nwpu/SkyEyeGPT)] 🔥🔥 （The Model Weight can be run directly with [MiniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4)）
 - **Jan-19-2025**: SkyEyeGPT paper is accepted by ISPRS. [[paper](https://doi.org/10.1016/j.isprsjprs.2025.01.020)] 🔥🔥 
 - **Jun-12-2024**: RS instruction dataset SkyEye-968k is released. [[huggingface](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)] 🔥🔥
 - **Jan-18-2024**: paper is released. 🔥🔥
