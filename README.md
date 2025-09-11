@@ -42,6 +42,10 @@ The online demo will be released.
 </div>
 
 
+# 🚀 Inference
+We release the model weight in [[huggingface](https://huggingface.co/ZhanYang-nwpu/SkyEyeGPT)]! The Model Weight can be run directly with [MiniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4)
+
+
 ## <img src="images/SkyEyeGPT.png" height="30"> SkyEyeGPT: Architecture
 The model and checkpoint are coming soon! 🚀
 
